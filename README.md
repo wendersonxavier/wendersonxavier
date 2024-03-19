@@ -1,4 +1,4 @@
-## Oi. Wenderson Xavier aqui!
+## Oi. 👋 Wenderson Xavier aqui!
 
 Sou graduando de Sistemas de Informção pela Universidade Federal do Oeste do Pará (UFOPA).
 Atualmente focado no desenvolvimento pessoal e profissional na área da Tecnologia da Informação, buscando conhecer, aprender, dominar e aperfeiçoar-me nas ferramentas e tecnologias abrangentes.
@@ -25,3 +25,5 @@ Em horas vagas, sou guitarrista e vocalista, professor de música, e Líder da B
 &nbsp;&nbsp;<a href="https://www.linkedin.com/in/wenderson-xavier-soares"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="xaviersoareswenderson@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;
 &nbsp;&nbsp;<a href="https://www.instagram.com/xavierwenderson.s"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+
+#
